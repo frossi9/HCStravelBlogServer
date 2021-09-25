@@ -1,0 +1,89 @@
+[
+    {
+        "cityName": "Hangzhou",
+        "id": 1,
+        "country": "China",
+        "image": "https://images.unsplash.com/photo-1586862118451-efc84a66e704?ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8aGFuZ3pob3V8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "arrival": "2015-09-15",
+        "departure": "2017-08-15",
+        "description": "I was in Hangzhou for two years, in 2015. Considering how rapidly buildings are built and torn down in China, I can imagine that next time I will go, I will experience a completely different city. In the time I was there I loved everything about it, aside from the bad pollution. Locals are extremely welcoming, sceneries and historical cities are breathtaking and the food...the best I have ever had (sorry, Grandma)",
+        "position": {
+            "lat": 30.250000, 
+            "lng": 120.166664 
+            },
+        "author" :"Lampa Dina",
+        "authorPic": "https://images.unsplash.com/photo-1589927986089-35812388d1f4?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y2Fycm90fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+
+    {
+        "cityName": "Paris",
+        "id": 2,
+        "country": "France",
+        "image": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cGFyaXN8ZW58MHwwfDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60",
+        "arrival": "2017-09-15",
+        "departure": "2018-12-01",
+        "description": "It's a no-brainer that Paris is a beauty at 360 degrees. Events, concerts, restaurants with world-wide cusine are in abundance. The quality of its cultural life is top-notch. For people under 25 (as I was back then) all museums are free. Imagine getting a few beers with your colleagues after work and casually walk in the Louvre at 10pm, free of charge...pure bliss. However, rent is soooo expensive. ",
+        "position": {"lat": 48.864716, 
+        "lng": 2.349014
+        },
+        "author":"Lampa Dario",
+        "authorPic": "https://images.unsplash.com/photo-1589927986089-35812388d1f4?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y2Fycm90fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+    {
+        "cityName": "Pisa",
+        "id": 3,
+        "country": "Italy",
+        "image": "https://images.unsplash.com/photo-1612018040446-1143676c7136?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDZ8fHBpc2F8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "arrival": "1993-03-06",
+        "departure": "2011-09-15",
+        "description": "That's the city where I grew up and where my parents still live. Although all my friends from school have left the city it is still such a warm feeling going back to this beautiful town. It might not be as pretty as Florence, but there are a few spots in the city that are really breath-taking! If you go there don't forget to try the pizza at Pizzeria da Montino. Speck and Mascarpone it's their specialty, for vegans and vegetarians a nice slice of Cecina (local chickpea pie). You won't regret it!",
+        "position": {"lat": 43.716667,
+        "lng": 10.400000
+        },
+        "author" :"Di Natale Pasquale",
+        "authorPic": "https://images.unsplash.com/photo-1589927986089-35812388d1f4?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y2Fycm90fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+    {
+        "cityName": "Glasgow",
+        "id": 4,
+        "country": "Scotland",
+        "image": "https://images.unsplash.com/photo-1601395069063-80d58813c4b6?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjh8fGdsYXNnb3d8ZW58MHwwfDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60",
+        "arrival": "2015-07-15",
+        "departure": "2014-09-15",
+        "description": "I was in Glasgow for around a year. Not enough to vaguely understand the locals speaking. However the city is fun for students, with a lot of opportunities to socialize and party. Some parts of the city are a bit risky at night, but most neighbourhoods are safe. It's absolutely normal to see all seasons over one day. On a sunny day it can rain and hail and snow within a few hours from each other.",
+        "position": {"lat": 55.860916, 
+        "lng": -4.251433
+        },
+        "author" :"Lampa Dina",
+        "authorPic": "https://images.unsplash.com/photo-1589927986089-35812388d1f4?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y2Fycm90fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+
+    {
+        "cityName": "Bonn",
+        "id": 5,
+        "country": "Germany",
+        "image": "https://images.unsplash.com/photo-1608075216525-095f6ec159f2?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Ym9ubnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "arrival": "2013-09-15",
+        "departure": "2013-12-01",
+        "description": "Bonn is the first city I have lived in Germany. I was an erasmus student and it was the very first time for me to live abroad. The city is little, but neat. Its university is world wide famous and the city is full of students from all over Germany and the world.",
+        "position": {"lat": 50.733334, 
+        "lng": 7.100000
+        },
+        "author":"Lampa Dario",
+        "authorPic": "https://images.unsplash.com/photo-1589927986089-35812388d1f4?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y2Fycm90fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "cityName": "Hamburg",
+        "id": 6,
+        "country": "Germany",
+        "image": "https://images.unsplash.com/photo-1604509617431-deaeb6d0b5aa?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8aGFtYnVyZ3xlbnwwfDB8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60",
+        "arrival": "2018-01-12",
+        "departure": "2022-09-15",
+        "description": "This is the city I currently call home. Very livable, green and clean. It has some very beautiful spots and awesome Franzbrötchen! Plus there is Hamburg Coding School here",
+        "position": {"lat": 53.551086,
+        "lng": 9.993682
+        },
+        "author" :"Di Natale Pasquale",
+        "authorPic": "https://images.unsplash.com/photo-1589927986089-35812388d1f4?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y2Fycm90fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    }
+  ]
