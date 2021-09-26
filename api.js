@@ -41,18 +41,18 @@ router.post("/new_post", function(req, res) {
 });
 
 
-    /* router.delete("/:id", function(req, res) {
+    router.delete("/modify_post/:id", function(req, res) {
 
-    const newCity = mockData.filter(function(element) {
+    const newArray = mockData.filter(function(element) {
         return element.id !== Number(req.params.id);
     });
-    mockData = newCity;
+    mockData = newArray;
 
     res.json({
         "status": "ok",
         "message": "city deleted"
     })
-}); */
+});
  
 /* router.get("/:id", function(req, res) {
     
