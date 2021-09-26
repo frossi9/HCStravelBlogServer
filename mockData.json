@@ -48,8 +48,8 @@
         "id": 4,
         "country": "Scotland",
         "image": "https://images.unsplash.com/photo-1601395069063-80d58813c4b6?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjh8fGdsYXNnb3d8ZW58MHwwfDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60",
-        "arrival": "2015-07-15",
-        "departure": "2014-09-15",
+        "arrival": "2014-07-15",
+        "departure": "2015-09-15",
         "description": "I was in Glasgow for around a year. Not enough to vaguely understand the locals speaking. However the city is fun for students, with a lot of opportunities to socialize and party. Some parts of the city are a bit risky at night, but most neighbourhoods are safe. It's absolutely normal to see all seasons over one day. On a sunny day it can rain and hail and snow within a few hours from each other.",
         "position": {"lat": 55.860916, 
         "lng": -4.251433

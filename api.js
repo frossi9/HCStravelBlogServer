@@ -12,7 +12,6 @@ router.get("/", function(req, res) {
 
 router.post("/new_post", function(req, res) {
 
-    
     const newCity = {
         "id": mockData.length +1,
         "cityName": req.body.cityName,
@@ -41,10 +40,10 @@ router.post("/new_post", function(req, res) {
 });
 
 
-    router.delete("/modify_post/:id", function(req, res) {
+    router.put("/modify_post/:id", function(req, res) {
 
     const newArray = mockData.filter(function(element) {
-        return element.id !== Number(req.params.id);
+        return element.id === Number(req.params.id);
     });
     mockData = newArray;
 
@@ -54,10 +53,10 @@ router.post("/new_post", function(req, res) {
     })
 });
  
-    router.get("/modify_post/:id", function(req, res) {
+    router.delete("/modify_post/:id", function(req, res) {
     
     const newArray = mockData.filter(function(element) {
-        return element.id === Number(req.params.id);
+        return element.id !== Number(req.params.id);
     });
 
     if (newArray.length === 1) {
