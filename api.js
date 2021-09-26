@@ -54,7 +54,7 @@ router.post("/new_post", function(req, res) {
     })
 });
  
-/* router.get("/:id", function(req, res) {
+    router.get("/modify_post/:id", function(req, res) {
     
     const newArray = mockData.filter(function(element) {
         return element.id === Number(req.params.id);
@@ -63,8 +63,8 @@ router.post("/new_post", function(req, res) {
     if (newArray.length === 1) {
         res.json(newArray[0]);
     } else {
-        res.json("User not found");
+        res.json("City not found");
     }
-});  */ 
+});  
 
 module.exports = router;
